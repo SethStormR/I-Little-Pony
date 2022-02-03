@@ -4,6 +4,7 @@
 
 
 This is commissioned work for a friend who wants a girly icon set.
+Discussion: https://forum.zorin.com/t/i-little-pony-icon-set-for-the-whole-family/15139
 
 ![Screenshot from 2022-02-03 08-21-43](https://user-images.githubusercontent.com/60283532/152298937-7ba42cf5-56a1-49c4-8bd1-20025886cf9f.png)
 
