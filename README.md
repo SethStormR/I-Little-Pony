@@ -18,3 +18,5 @@ Light icons
 
 Dark icons
 ![Screenshot from 2022-02-04 17-14-08](https://user-images.githubusercontent.com/60283532/152584630-41d9dac9-3b6f-4294-a0bf-188e340fa956.png)
+
+![Screenshot from 2022-02-04 19-49-53](https://user-images.githubusercontent.com/60283532/152586134-6f1b173a-98cc-46d0-baec-c037e23d9874.png)
