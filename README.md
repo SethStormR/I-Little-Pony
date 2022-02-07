@@ -8,6 +8,10 @@ Video
 --
 https://www.youtube.com/watch?v=j8OqOj3-Npo
 
+Wallpaper
+--
+https://wall.alphacoders.com/big.php?i=992056
+
 Screenshots
 --
 Light icons
