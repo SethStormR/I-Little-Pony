@@ -1,4 +1,4 @@
-![I Little Pony Logo](https://user-images.githubusercontent.com/60283532/152300208-048fa694-c24b-4add-ab70-f0e270ef9306.png)
+![I Little Pony Logo](https://user-images.githubusercontent.com/60283532/152883356-fcbb5f4a-a273-4497-a2ac-f3d6be4dbf40.png)
 
 
 This is commissioned work for a friend who wants a girly icon set.
