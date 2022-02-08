@@ -6,7 +6,7 @@ Discussion: https://forum.zorin.com/t/i-little-pony-icon-set-for-the-whole-famil
 
 Video
 --
-https://www.youtube.com/watch?v=j8OqOj3-Npo
+https://youtu.be/dRVbjPxmun4
 
 Wallpaper
 --
