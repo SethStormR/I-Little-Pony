@@ -2,7 +2,6 @@
 
 
 This is commissioned work for a friend who wants a girly icon set.
-Discussion: https://forum.zorin.com/t/i-little-pony-icon-set-for-the-whole-family/15139
 
 Video
 --
@@ -19,7 +18,3 @@ Light icons
 
 ![Screenshot from 2022-02-07 23-35-19](https://user-images.githubusercontent.com/60283532/152883826-50aacd08-aac6-4b12-bb2b-a677dc88cbfb.png)
 
-Dark icons
-![Screenshot from 2022-02-04 17-14-08](https://user-images.githubusercontent.com/60283532/152584630-41d9dac9-3b6f-4294-a0bf-188e340fa956.png)
-
-![Screenshot from 2022-02-04 19-49-53](https://user-images.githubusercontent.com/60283532/152586134-6f1b173a-98cc-46d0-baec-c037e23d9874.png)
